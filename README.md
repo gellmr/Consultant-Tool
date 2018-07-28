@@ -7,8 +7,6 @@ First, visit https://www.java.com/en/download/manual.jsp and download the Java i
 
 Download this Consultant-Tool repository as a zip, and extract all.
 
-Eg "C:\Users\youruser\Downloads\ConsultantTool"
-
 Open a command prompt (on Windows 10) by going Start and typing 'cmd'
 
 Type "java -version" you should see some info telling you that Java is installed.
