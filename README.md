@@ -5,7 +5,7 @@ To download and run this program...
 
 First, visit https://www.java.com/en/download/manual.jsp and download the Java installer. It only takes a minute or so to install.
 
-Download (this) Consultant-Tool repository as a zip, and extract all.
+Download this Consultant-Tool repository as a zip, and extract all.
 
 Eg "C:\Users\youruser\Downloads\ConsultantTool"
 
