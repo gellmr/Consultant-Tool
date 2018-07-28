@@ -13,7 +13,7 @@ Type "java -version" you should see some info telling you that Java is installed
 
 Navigate to the "dist" folder of the downloaded repository, eg
 
-cd "C:\Users\youruser\Downloads\ConsultantTool\dist"
+cd "C:\Users\youruser\Downloads\Consultant-Tool-master\Consultant-Tool-master\dist"
 
 You can start the program by typing "java -jar ConsultantTool3.jar"
 
